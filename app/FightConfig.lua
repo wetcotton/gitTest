@@ -6,7 +6,7 @@
 local g_isCarFight = true         --是否车战   true车战  false人战
 local g_tptID      = 1014         --测试人物或战车的模板ID
 
---test 33333
+--test 333336666
 
 local g_monsters   = {              --测试的怪物
                         [1] = {     --1号位置
