@@ -37,7 +37,7 @@ function gotoSkillScene(block)
         --return
     end
 
-    if false then
+    if false then   
 
         package.loaded["app.widget.UIGainBox"] = nil
         local mod = require("app.widget.UIGainBox")
