@@ -27,6 +27,7 @@ require("app.scenes.Animations")
 require("socket")
 
 
+
 g_bounty = require("app.scenes.bounty.bounty")
 g_SchedulerMgr = require("app.logic.SchedulerMgr")
 g_WarriorsCenterMgr = require("app.logic.WarriorsCenterMgr")
