@@ -8,6 +8,8 @@ reloadLuaFile("app.utils.Constants")
 reloadLuaFile("app.utils.GlobalFunc")
 reloadLuaFile("framework.display")
 
+
+
 display.DEFAULT_TTF_FONT        = "fonts/blackfont.TTF"
 display.DEFAULT_TTF_FONT_SIZE   = 24
 
